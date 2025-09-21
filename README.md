@@ -1,4 +1,4 @@
-# Cybersecurity_Portfolio-Karthik-S
+# Cybersecurity Portfolio - Karthik S
 
 ### The following are the projects that were made as practice from my Google Cyber Security Professional Certification:</br>
 
